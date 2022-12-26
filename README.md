@@ -1,10 +1,10 @@
 ### <div align="center">Hello! I'm Riley, an aspiring  Data Scientist studying at the University of British Columbia.</div>  
   
 
-- I'm a first year student enrolled in the Bachelor of International Economics program at UBC's Vancouver Campus.  
+- I'm a first year student in the Bachelor of International Economics program at UBC's Vancouver Campus.  
   
 
-- Currently learning R, Python, and SQL for data science applications.  
+- Currently learning R and Python for data science applications.  
   
 
 <br/>  
